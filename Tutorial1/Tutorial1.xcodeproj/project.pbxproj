@@ -95,7 +95,7 @@
 				B2A85DEE15855EB8002E6DB6 /* Supporting Files */,
 			);
 			name = Tutorial1;
-			path = OpenGL;
+			path = Project;
 			sourceTree = "<group>";
 		};
 		B2A85DEE15855EB8002E6DB6 /* Supporting Files */ = {
@@ -239,8 +239,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "OpenGL/Tutorial1-Prefix.pch";
-				INFOPLIST_FILE = "OpenGL/Tutorial1-Info.plist";
+				GCC_PREFIX_HEADER = "Project/Tutorial1-Prefix.pch";
+				INFOPLIST_FILE = "Project/Tutorial1-Info.plist";
 				PRODUCT_NAME = Tutorial1;
 				WRAPPER_EXTENSION = app;
 			};
@@ -250,8 +250,8 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				GCC_PRECOMPILE_PREFIX_HEADER = YES;
-				GCC_PREFIX_HEADER = "OpenGL/Tutorial1-Prefix.pch";
-				INFOPLIST_FILE = "OpenGL/Tutorial1-Info.plist";
+				GCC_PREFIX_HEADER = "Project/Tutorial1-Prefix.pch";
+				INFOPLIST_FILE = "Project/Tutorial1-Info.plist";
 				PRODUCT_NAME = Tutorial1;
 				WRAPPER_EXTENSION = app;
 			};
@@ -276,6 +276,7 @@
 				B2A85DFD15855EB8002E6DB6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
